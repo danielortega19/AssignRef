@@ -1,0 +1,25 @@
+.faqlist{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: "5rem"
+}
+
+.hasError{
+    width:100%;
+    margin-top: 0.25rem;
+    font-size: 80%;
+    color: red;
+  }
+
+  .faq-Admin{
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .faqlist-Admin{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: "5rem"
+}

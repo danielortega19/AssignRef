@@ -1,0 +1,7 @@
+.apparelList-hasError{
+  position: absolute;
+    width:100%;
+    margin-top: 3rem;
+    font-size: 80%;
+    color: red;
+  }
