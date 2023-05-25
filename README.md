@@ -1,5 +1,5 @@
 # AssignRef
-## Assign Ref is a platform that allows game official's of the Liga de Fútbol Americano Profesional (LFA) to be assigned games, graded based on their performance, tested on their knowledge, and compensated for their work. AssignRef is an MVP and due to the proprietary nature of the code I can only provide code snippets of my code. This repository contains SQL, .NET, and React code.
+## AssignRef is a platform designed specifically for game officials of the Liga de Fútbol Americano Profesional (LFA). It facilitates the assignment of games, evaluates officials' performance, assesses their knowledge through tests, and ensures proper compensation for their services. AssignRef is an MVP and due to the proprietary nature of the code I can only provide code snippets of my code. This repository contains SQL, .NET, and React code.
 My role as a software engineer was to implement the functionality of the FAQ page, assigned new games to officials and create a form for employees sizes to order their uniform. I was required to handle all the coding from the backend to the frontend. Below is a list of the actions I took to accomplish my responsibilities.
 
 ● Designed relational databases, stored procedures and user defined tables using MS SQL Server Management Studio while managing database
